@@ -108,6 +108,10 @@ input {
         margin: 10px;
         padding-left: 15px;
 
+        #rcorners2 {
+            border-radius: 25px;
+          }
+
         input {
             border: none;
             border-radius: $input_field_border_radius;
